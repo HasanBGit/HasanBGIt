@@ -1,8 +1,7 @@
 ### 👨‍💻 About Me:
 
-I'm a Software Engineering with a growing focus on Artificial Intelligence. I’ve built a solid foundation in front-end and back-end development, and have gained experience working with machine learning and computer vision. Recently, I’ve been exploring Large Language Models (LLMs), Natural Language Processing (NLP), and Generative AI.
+I am a software engineer focused on applied AI research and engineering. My work centers on building, evaluating, and deploying modern machine learning systems particularly large language models and generative AI. I have experience across the stack: training models, constructing data pipelines, and turning prototypes into usable tools and services.
 
-I enjoy learning about new technologies and applying them to solve real-world problems. My current interest is in understanding how advanced AI systems like LLMs can drive innovation across different domains.
+My current focus is on LLMs, NLP, and model evaluation, including preference modeling and practical deployment constraints such as latency, reliability, and data quality. I’m most interested in the boundary between research and engineering: taking ideas that barely work in papers and making them work in the real world.
 
-In the future, I’m excited to dive deeper into agentic AI and reinforcement learning. I’m always looking to grow, build, and collaborate on meaningful tech projects.
-
+Over the next few years, I am aiming to specialize in R&D roles that involve LLM alignment, evaluation, agentic systems, and reinforcement learning from human feedback. I’m not trying to “play” with AI I’m trying to build systems that actually work at scale
