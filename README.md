@@ -52,10 +52,14 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 |---|---|---|
 | AI Engineer Intern | KACST | Aug 2026 – Present |
 | Research Team Lead, Board Member | NAMAA Community | Jan 2026 – Present |
-| AI Engineer Intern | MawHub | Jun 2026 – Present |
+| Tech Lead (Acting) | MawHub | Oct 2026 – Present |
+| AI Engineer | MawHub | Jun 2026 – Present |
+| Researcher | ICAIRE | Oct 2026 – Present |
 | Undergraduate Research Fellow | Alfaisal AI Center | Jun – Sep 2026 |
 | Research Fellow | King Khalid University | Jul – Sep 2026 |
+| AI Infrastructure Trainee | SANI (Masar AI Infrastructure Program) | Jun – Aug 2026 |
 | AI Engineer Intern | Lucidya | Nov 2025 – May 2026 |
+| AI Engineer | Synapse | Oct 2025 – Mar 2026 |
 | Research Assistant | Umm Al-Qura University | Oct 2025 – May 2026 |
 | Data Analyst Intern | Uptrail | Jul – Aug 2025 |
 | AI & Robotics Engineer | Smart Methods | Jun – Aug 2025 |
@@ -64,6 +68,7 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 - Built **Ask LuQua**, an agentic RAG assistant in production for 130+ engineers at Lucidya.
 - Built **Maw**, a tool-calling recruiter agent. Cut prompt size for long CVs by 56% with answer quality unchanged.
 - Led the NAMAA research team, which co-authored seven shared-task papers in 2026.
+- Lead seven interns as acting Tech Lead at MawHub: sprint planning, code review and deployments.
 - Designed **Sarab**, an Arabic visual hallucination benchmark with 465 images and 5 diagnostic modes.
 
 ---
@@ -80,6 +85,7 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 | **RDC UQU** | Website of the R&D Club, Umm Al-Qura University | [rdcuqu.club](https://rdcuqu.club/) |
 | **Synapse** | Technical platform for the Synapse community | [synapseksa.tech](https://synapseksa.tech/) |
 | **SMAIL** | Specialized Med AI Lab, linking Saudi students with mentors worldwide | [smail.org.sa](https://smail.org.sa/) |
+| **Sawb** | Flags cultural and ethical violations in Arabic LLM answers (0.96 macro F1) | [GitHub](https://github.com/HasanBGit/Sawb) |
 
 ---
 
@@ -96,6 +102,7 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 - 🥇 **1st place**, Tourism Innovation Hackathon
 - 🥇 **1st place**, AI Glossary Challenge (ICAIRE)
 - 🎖️ **First Honors**, Umm Al-Qura University, three years in a row
+- 🏅 **Award**, Smart Methods (Aug 2025)
 
 ---
 
