@@ -91,6 +91,61 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 <td width="50">📑</td>
 <td>
 
+**NAMAA Community at HalluScoring-2026: Beyond Predictive Performance: Reliability and Generalization in Arabic Hallucination Detection**
+<br>*N. Albahly, H. Barmandah, K. Elsayed, H. Ali, Y. A. Abdullah, O. Nacar · ArabicNLP 2026 Shared Tasks*
+<br>Arabic hallucination detection. 0.7596 ROC-AUC.
+<br>[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-red?style=flat-square)](https://aclanthology.org/2026.arabicnlp-sharedtasks.141/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/NAMAA-ORG/HalluScoring-Arabic-Hallucination-Detection) [![Models](https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/collections/HassanB4/halluscoring-arabic-hallucination-detection-6a2fed60c5212beb93ca051e)
+
+</td>
+</tr>
+<tr>
+<td width="50">📑</td>
+<td>
+
+**NAMAA Community at AraGenre 2026: From Encoder Baselines to Self-Consistent LLM Ensembling for Hierarchical Arabic Genre Classification**
+<br>*H. Barmandah, I. Elhosiny, Y. A. El-Ghawi, O. Nacar · ArabicNLP 2026 Shared Tasks*
+<br>Hierarchical Arabic genre classification with LLM ensembling. 0.7013 hierarchical F1.
+<br>[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-red?style=flat-square)](https://aclanthology.org/2026.arabicnlp-sharedtasks.33/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/NAMAA-ORG/Aragenre-Definition-Guided-Genre) [![Models](https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/collections/HassanB4/aragenre-definition-guided-genre-6a6431de13862c0dcfbcc5b8)
+
+</td>
+</tr>
+<tr>
+<td width="50">📑</td>
+<td>
+
+**NAMAA at StanceEval-2026: From Encoder and Decoder Model Fine-Tuning to Data-Centric Retrieval-Augmented In-Context Learning for Arabic Stance Detection**
+<br>*A. Djamai, H. Barmandah, N. Qandos, S. Ahmad, O. Nacar · ArabicNLP 2026 Shared Tasks*
+<br>Arabic stance detection with retrieval-augmented prompting of frozen LLMs. Official scores 0.8719 (Track 1) and 0.9016 (Track 2).
+<br>[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-red?style=flat-square)](https://aclanthology.org/2026.arabicnlp-sharedtasks.74/) [![Models](https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/collections/HassanB4/stancemodels-6a5b5d10eb4485f94525cb62)
+
+</td>
+</tr>
+<tr>
+<td width="50">📑</td>
+<td>
+
+**NAMAA at DialectSentEval 2026 Subtask 2: From Reranked Sampling to Cross-Backbone Ensembling for Arabic Dialectal Sentiment Swap**
+<br>*H. Barmandah, Y. A. El-Ghawi, M. A. Azim, O. Nacar · ArabicNLP 2026 Shared Tasks*
+<br>Reverses the polarity of a dialectal sentence while keeping its meaning. Best official score 0.7597.
+<br>[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-red?style=flat-square)](https://aclanthology.org/2026.arabicnlp-sharedtasks.182/) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/NAMAA-ORG/DialectSentEval-Arabic-Sentiment-Swap) [![Models](https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/collections/HassanB4/dialectsenteval-2026-arabic-sentiment-swap-6a86b2fb3508eb98d537f6f6)
+
+</td>
+</tr>
+<tr>
+<td width="50">📑</td>
+<td>
+
+**NAMAA Community at DialectSentEval 2026 Subtask 1: Dialect-Aware Arabic Sentiment Classification with Pretrained Transformer Models**
+<br>*M. A. Azim, H. Barmandah, Y. A. El-Ghawi, O. Nacar · ArabicNLP 2026 Shared Tasks*
+<br>Three-class sentiment classification over Moroccan, Egyptian, Jordanian and Saudi Arabic. MARBERTv2 reached 94.07% macro F1.
+<br>[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-red?style=flat-square)](https://aclanthology.org/2026.arabicnlp-sharedtasks.181/)
+
+</td>
+</tr>
+<tr>
+<td width="50">📑</td>
+<td>
+
 **Saudi-Dialect-ALLaM: LoRA Fine-Tuning for Dialectal Arabic Generation**
 <br>*H. Barmandah · arXiv, 2025*
 <br>Fine-tunes ALLaM-7B on 5,466 Hijazi and Najdi pairs. Dialect rate 47.97% → 84.21%.
@@ -98,3 +153,63 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 
 </td>
 </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| AI Engineer Intern | KACST | Aug 2026 – Present |
+| Research Team Lead, Board Member | NAMAA Community | Jan 2026 – Present |
+| AI Engineer Intern | MawHub | Jun 2026 – Present |
+| Undergraduate Research Fellow | Alfaisal AI Center | Jun – Sep 2026 |
+| Research Fellow | King Khalid University | Jul – Sep 2026 |
+| AI Engineer Intern | Lucidya | Nov 2025 – May 2026 |
+| Research Assistant | Umm Al-Qura University | Oct 2025 – May 2026 |
+| Data Analyst Intern | Uptrail | Jul – Aug 2025 |
+| AI & Robotics Engineer | Smart Methods | Jun – Aug 2025 |
+
+**Highlights**
+- Built **Ask LuQua**, an agentic RAG assistant in production for 130+ engineers at Lucidya.
+- Built **Maw**, a tool-calling recruiter agent. Cut prompt size for long CVs by 56% with answer quality unchanged.
+- Led the NAMAA research team, which co-authored seven shared-task papers in 2026.
+- Designed **Sarab**, an Arabic visual hallucination benchmark with 465 images and 5 diagnostic modes.
+
+---
+
+## 🚀 Products
+
+| Product | What it does | Link |
+|---|---|---|
+| **Haakkim** | Public arena ranking Arabic LLMs by human votes | [haakkim.tech](https://haakkim.tech/) |
+| **Asalah** | Ranks image models on how well they show Saudi culture | [asalah.ai](https://www.asalah.ai/) |
+| **Ask LuQua** | Agentic RAG assistant over Confluence and code, used by 130+ engineers | Internal (Lucidya) |
+| **Maw** | Tool-calling AI agent for recruiters | Internal (MawHub) |
+| **LucidFlow** | Engineering quality platform | Internal (Lucidya) |
+| **RDC UQU** | Website of the R&D Club, Umm Al-Qura University | [rdcuqu.club](https://rdcuqu.club/) |
+| **Synapse** | Technical platform for the Synapse community | [synapseksa.tech](https://synapseksa.tech/) |
+| **SMAIL** | Specialized Med AI Lab, linking Saudi students with mentors worldwide | [smail.org.sa](https://smail.org.sa/) |
+
+---
+
+## 🎓 Education
+
+- **B.S. in Software Engineering**, Umm Al-Qura University. GPA 3.86/4.00. Expected June 2027.
+- **Artificial Intelligence Specialization**, KAUST Academy, Oct 2024 – Feb 2025.
+
+---
+
+## 🏆 Awards
+
+- 🥇 **Merit**, AIREA 2026, 2nd International Competition on AI in Education
+- 🥇 **1st place**, Tourism Innovation Hackathon
+- 🥇 **1st place**, AI Glossary Challenge (ICAIRE)
+- 🎖️ **First Honors**, Umm Al-Qura University, three years in a row
+
+---
+
+## 📬 Contact
+
+Working on applied AI? Let's talk: **[hassanhbarmandah@gmail.com](mailto:hassanhbarmandah@gmail.com)**
