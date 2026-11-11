@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:hassanhbarmandah@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hsnhb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://hsnb.site/"><img alt="Website" src="https://img.shields.io/badge/Website-hsnb.site-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://huggingface.co/HassanB4"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-HassanB4-FFD21E?style=flat-square&logoColor=black"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=2VzOr0kAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
