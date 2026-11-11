@@ -26,6 +26,8 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 
 **Focus areas:** LLM agents · RAG · LLM evaluation · Fine-tuning (LoRA/QLoRA) · Arabic NLP · Full-stack (Python, Django, FastAPI, React, AWS)
 
+**Research interests:** model architecture · Arabic NLP · computer vision · efficient AI inference · benchmarking
+
 ---
 
 ## 📄 Research & Publications
