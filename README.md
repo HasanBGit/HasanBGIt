@@ -91,17 +91,6 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 <td width="50">📑</td>
 <td>
 
-**AutoArabic: A Three-Stage Framework for Localizing Video-Text Retrieval Benchmarks**
-<br>*ArabicNLP 2025 · ACL Anthology*
-<br>Benchmark localization pipeline for Arabic video-text retrieval, closing a gap in Arabic multimodal NLP resources.
-<br>[![Paper](https://img.shields.io/badge/Paper-ACL%20Anthology-red?style=flat-square)](https://aclanthology.org/2025.arabicnlp-main.23.pdf)
-
-</td>
-</tr>
-<tr>
-<td width="50">📑</td>
-<td>
-
 **Saudi-Dialect-ALLaM: LoRA Fine-Tuning for Dialectal Arabic Generation**
 <br>*H. Barmandah · arXiv, 2025*
 <br>Fine-tunes ALLaM-7B on 5,466 Hijazi and Najdi pairs. Dialect rate 47.97% → 84.21%.
@@ -109,74 +98,3 @@ I'm a Software Engineering senior at **Umm Al-Qura University**. I build **LLM a
 
 </td>
 </tr>
-<tr>
-<td width="50">📑</td>
-<td>
-
-**Multimodal Lengthy Videos Retrieval Framework and Evaluation Metric**
-<br>*arXiv preprint · 2025*
-<br>A retrieval framework and evaluation metric for long-form video understanding.
-<br>[![arXiv](https://img.shields.io/badge/arXiv-2504.04572-b31b1b?style=flat-square)](https://arxiv.org/pdf/2504.04572)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| AI Engineer Intern | KACST | Aug 2026 – Present |
-| Research Team Lead, Board Member | NAMAA Community | Jan 2026 – Present |
-| AI Engineer Intern | MawHub | Jun 2026 – Present |
-| Undergraduate Research Fellow | Alfaisal AI Center | Jun – Sep 2026 |
-| Research Fellow | King Khalid University | Jul – Sep 2026 |
-| AI Engineer Intern | Lucidya | Nov 2025 – May 2026 |
-| Research Assistant | Umm Al-Qura University | Oct 2025 – May 2026 |
-| Data Analyst Intern | Uptrail | Jul – Aug 2025 |
-| AI & Robotics Engineer | Smart Methods | Jun – Aug 2025 |
-
-**Highlights**
-- Built **Ask LuQua**, an agentic RAG assistant in production for 130+ engineers at Lucidya.
-- Built **Maw**, a tool-calling recruiter agent. Cut prompt size for long CVs by 56% with answer quality unchanged.
-- Led the NAMAA research team, which co-authored seven shared-task papers in 2026.
-- Designed **Sarab**, an Arabic visual hallucination benchmark with 465 images and 5 diagnostic modes.
-
----
-
-## 🚀 Products
-
-| Product | What it does | Link |
-|---|---|---|
-| **Haakkim** | Public arena ranking Arabic LLMs by human votes | [haakkim.tech](https://haakkim.tech/) |
-| **Asalah** | Ranks image models on how well they show Saudi culture | [asalah.ai](https://www.asalah.ai/) |
-| **Ask LuQua** | Agentic RAG assistant over Confluence and code, used by 130+ engineers | Internal (Lucidya) |
-| **Maw** | Tool-calling AI agent for recruiters | Internal (MawHub) |
-| **LucidFlow** | Engineering quality platform | Internal (Lucidya) |
-| **RDC UQU** | Website of the R&D Club, Umm Al-Qura University | [rdcuqu.club](https://rdcuqu.club/) |
-| **Synapse** | Technical platform for the Synapse community | [synapseksa.tech](https://synapseksa.tech/) |
-| **SMAIL** | Specialized Med AI Lab, linking Saudi students with mentors worldwide | [smail.org.sa](https://smail.org.sa/) |
-
----
-
-## 🎓 Education
-
-- **B.S. in Software Engineering**, Umm Al-Qura University. GPA 3.86/4.00. Expected June 2027.
-- **Artificial Intelligence Specialization**, KAUST Academy, Oct 2024 – Feb 2025.
-
----
-
-## 🏆 Awards
-
-- 🥇 **Merit**, AIREA 2026, 2nd International Competition on AI in Education
-- 🥇 **1st place**, Tourism Innovation Hackathon
-- 🥇 **1st place**, AI Glossary Challenge (ICAIRE)
-- 🎖️ **First Honors**, Umm Al-Qura University, three years in a row
-
----
-
-## 📬 Contact
-
-Working on applied AI? Let's talk: **[hassanhbarmandah@gmail.com](mailto:hassanhbarmandah@gmail.com)**
